@@ -7,10 +7,10 @@
 - 각 모델에서의 성능 비교
 
 2. 파일 설명
-- [BM25.ipynb](https://github.com/rinapark19/Text_ranking/blob/main/BM25_new.ipynb)
+- [BM25.ipynb](https://github.com/rinapark19/2023_DIAL/blob/main/Project4/BM25.ipynb)
 : BM25를 이용한 문서 검색
 
-- [DPR.ipynb](https://github.com/rinapark19/Text_ranking/blob/main/DPR_new.ipynb)
+- [DPR.ipynb](https://github.com/rinapark19/2023_DIAL/blob/main/Project4/DPR.ipynb)
 : DPR를 이용한 문서 검색
 
 3. 결과

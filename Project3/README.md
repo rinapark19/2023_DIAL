@@ -7,10 +7,10 @@
 - 감성분석 태스크 수행
 
 2. 파일 설명
-- [transformer_encoder_SA](https://github.com/rinapark19/transformer_SA/blob/main/transformer_encoder_SA.ipynb)
+- [transformer_encoder_SA](https://github.com/rinapark19/2023_DIAL/blob/main/Project3/transformer_encoder_SA.ipynb)
 : transformer encoder를 이용한 감성분석 태스크 수행
 
-- [KoBERT_SA](https://github.com/rinapark19/transformer_SA/blob/main/KoBERT_SA_2%20(1).ipynb)
+- [KoBERT_SA](https://github.com/rinapark19/2023_DIAL/blob/main/Project3/KoBERT_SA.ipynb)
 : KoBERT를 이용한 감성분석 태스크 수행
 
 3. 결과

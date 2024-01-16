@@ -6,13 +6,13 @@
 - Decision Tree, Logistic Regression, Random Forest, Xgboost, SVM, Adaboost, Naive Bayes, KNN 성능 비교
 
 2. 파일 설명
-- [SVM.ipynb](https://github.com/rinapark19/CarotidAS_models/blob/main/SVM.ipynb)
+- [SVM.ipynb](https://github.com/rinapark19/2023_DIAL/blob/main/Project2/SVM.ipynb)
 : SVM 기반 분류
 
-- [XGboost.ipnyb](https://github.com/rinapark19/CarotidAS_models/blob/main/XGboost.ipynb)
+- [XGboost.ipnyb](https://github.com/rinapark19/2023_DIAL/blob/main/Project2/XGboost.ipynb)
 : XGboost 기반 분류
 
-- [random_forest.ipnyb](https://github.com/rinapark19/CarotidAS_models/blob/main/random_forest.ipynb)
+- [random_forest.ipnyb](https://github.com/rinapark19/2023_DIAL/blob/main/Project2/random_forest.ipynb)
 : random forest 기반 분류
 
 3. 결과

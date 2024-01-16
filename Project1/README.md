@@ -7,22 +7,22 @@
 - 기계번역 태스크 수행
 
 2. 파일 설명
-- [KoBART_translator.ipynb](https://github.com/rinapark19/transformer_translator/blob/main/KoBART_translator.ipynb)
+- [KoBART_translator.ipynb](https://github.com/rinapark19/2023_DIAL/blob/main/Project1/KoBART_translator.ipynb)
 : BART 모델 파인 튜닝 코드
 
-- [dataset.py](https://github.com/rinapark19/transformer_translator/blob/main/dataset.py)
+- [dataset.py](https://github.com/rinapark19/2023_DIAL/blob/main/Project1/dataset.py)
 : transformer dataset 구축 코드
 
-- [train_model.py](https://github.com/rinapark19/transformer_translator/blob/main/train_model.py)
+- [train_model.py](https://github.com/rinapark19/2023_DIAL/blob/main/Project1/train_model.py)
 : transformer 모델 학습 코드
 
-- [transformer.py](https://github.com/rinapark19/transformer_translator/blob/main/transformer.py)
+- [transformer.py](https://github.com/rinapark19/2023_DIAL/blob/main/Project1/transformer.py)
 : transformer 모델 구축 코드
 
-- [translation.py](https://github.com/rinapark19/transformer_translator/blob/main/translation.py)
+- [translation.py](https://github.com/rinapark19/2023_DIAL/blob/main/Project1/translation.py)
 : transformer 번역 수행 코드
 
-- [util.py](https://github.com/rinapark19/transformer_translator/blob/main/util.py)
+- [util.py](https://github.com/rinapark19/2023_DIAL/blob/main/Project1/util.py)
 : transformer 데이터 구축 및 학습에 필요한 함수들
 
 3. 결과
